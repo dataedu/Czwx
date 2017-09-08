@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]
