@@ -1,21 +1,21 @@
 package com.dk.mp.xxgk;
 
-import java.util.ArrayList;
-import java.util.List;
+		import java.util.ArrayList;
+		import java.util.List;
 
-import android.content.Intent;
-import android.os.Bundle;
-import android.support.design.widget.TabLayout;
+		import android.content.Intent;
+		import android.os.Bundle;
+		import android.support.design.widget.TabLayout;
 
-import com.dk.mp.core.adapter.MyFragmentPagerAdapter;
-import com.dk.mp.core.ui.BaseFragment;
-import com.dk.mp.core.ui.MyActivity;
-import com.dk.mp.core.view.tab.MyTabActivity;
-import com.dk.mp.core.widget.MyViewpager;
+		import com.dk.mp.core.adapter.MyFragmentPagerAdapter;
+		import com.dk.mp.core.ui.BaseFragment;
+		import com.dk.mp.core.ui.MyActivity;
+		import com.dk.mp.core.view.tab.MyTabActivity;
+		import com.dk.mp.core.widget.MyViewpager;
 
 /**
  * 动画页签使用方法.
- * 
+ *
  * @since
  * @version 2014-9-26
  * @author zhaorm

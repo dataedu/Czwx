@@ -35,7 +35,7 @@ class MaterialProgressDrawable extends Drawable implements Animatable {
 
 
 
-    @Retention(RetentionPolicy.CLASS)
+    @Retention(RetentionPolicy.SOURCE)
     @IntDef({LARGE, DEFAULT})
     public @interface ProgressDrawableSize {}
     // Maps to ProgressBar.Large style

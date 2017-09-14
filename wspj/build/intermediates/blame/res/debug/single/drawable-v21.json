@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\5f52e71d8884037841d06026245fe9ee6d9af56d\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
         "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
@@ -8,11 +12,51 @@
         "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_bg.xml",
+        "source": "D:\\Android\\workspace\\Czwx\\core\\build\\intermediates\\bundles\\default\\res\\drawable-v21\\ripple_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\image_progress.png",
+        "source": "D:\\Android\\workspace\\Czwx\\core\\build\\intermediates\\bundles\\default\\res\\drawable-v21\\image_progress.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\5f52e71d8884037841d06026245fe9ee6d9af56d\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
         "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\5f52e71d8884037841d06026245fe9ee6d9af56d\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_bg_while.xml",
+        "source": "D:\\Android\\workspace\\Czwx\\core\\build\\intermediates\\bundles\\default\\res\\drawable-v21\\ripple_bg_while.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_bg_hy.xml",
+        "source": "D:\\Android\\workspace\\Czwx\\core\\build\\intermediates\\bundles\\default\\res\\drawable-v21\\ripple_bg_hy.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\5f52e71d8884037841d06026245fe9ee6d9af56d\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rounded_corners_hy.xml",
+        "source": "D:\\Android\\workspace\\Czwx\\core\\build\\intermediates\\bundles\\default\\res\\drawable-v21\\rounded_corners_hy.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_bg_f8.xml",
+        "source": "D:\\Android\\workspace\\Czwx\\core\\build\\intermediates\\bundles\\default\\res\\drawable-v21\\ripple_bg_f8.xml"
+    },
+    {
         "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
         "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_bg_red.xml",
+        "source": "D:\\Android\\workspace\\Czwx\\core\\build\\intermediates\\bundles\\default\\res\\drawable-v21\\ripple_bg_red.xml"
     }
 ]

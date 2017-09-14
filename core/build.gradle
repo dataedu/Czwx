@@ -56,4 +56,6 @@ dependencies {
     compile 'com.contrarywind:Android-PickerView:3.0.8'
 
     compile 'com.umeng.analytics:analytics:latest.integration'
+
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
 }

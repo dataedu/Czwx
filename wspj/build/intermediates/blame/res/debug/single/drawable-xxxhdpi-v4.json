@@ -4,8 +4,16 @@
         "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\5f52e71d8884037841d06026245fe9ee6d9af56d\\output\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
         "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
         "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\fab_bg_normal.png",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\233b5794beeab1129a91121f4af129c142fb128f\\output\\res\\drawable-xxxhdpi-v4\\fab_bg_normal.png"
     },
     {
         "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
@@ -44,6 +52,10 @@
         "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\fab_bg_mini.png",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\233b5794beeab1129a91121f4af129c142fb128f\\output\\res\\drawable-xxxhdpi-v4\\fab_bg_mini.png"
+    },
+    {
         "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
         "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
@@ -76,6 +88,10 @@
         "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\leak_canary_icon.png",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\5052eb0c02bb392009e913e03c555467d65b7bf6\\output\\res\\drawable-xxxhdpi-v4\\leak_canary_icon.png"
+    },
+    {
         "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png",
         "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
@@ -94,6 +110,10 @@
     {
         "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png",
         "source": "C:\\Users\\cobb\\.android\\build-cache\\5115416c2ec54b6d938b817890814eb6bf11bae7\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\cobb\\.android\\build-cache\\5f52e71d8884037841d06026245fe9ee6d9af56d\\output\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "D:\\Android\\workspace\\Czwx\\wspj\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",

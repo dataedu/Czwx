@@ -29,6 +29,6 @@
         android:layout_height="fill_parent"
         android:clickable="false"
         android:focusable="false"
-        android:visibility="gone" />
+        android:visibility="visible" />
 
 </LinearLayout>

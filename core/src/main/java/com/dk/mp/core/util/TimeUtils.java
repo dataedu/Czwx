@@ -40,6 +40,21 @@ public class TimeUtils {
 	}
 
 	/**
+	 *字符串的日期格式的计算
+	 */
+	public static String daysBetween(String smdate,String bdate) throws ParseException{
+		SimpleDateFormat sdf=new SimpleDateFormat("yyyy-MM-dd");
+		Calendar cal = Calendar.getInstance();
+		cal.setTime(sdf.parse(smdate));
+		long time1 = cal.getTimeInMillis();
+		cal.setTime(sdf.parse(bdate));
+		long time2 = cal.getTimeInMillis();
+		long between_days=(time2-time1)/(1000*3600*24);
+
+		return String.valueOf(between_days);
+	}
+
+	/**
 	 * 将毫秒转换为日期.
 	 * @param millis 毫秒
 	 * @return 日期
@@ -492,4 +507,35 @@ public class TimeUtils {
 		String haha = sdf.format(calendar.getTime());
 		return haha;
 	}
+
+	/**
+	 * 格式化时间.
+	 * @param time  时间
+	 * @param fromFormat  格式
+	 * @param toFormat   格式后的时间
+	 * @return 格式化时间
+	 */
+	public static String format(String time, String fromFormat, String toFormat) {
+		Date d = null;
+		try {
+			d = new SimpleDateFormat(fromFormat).parse(time);
+		} catch (ParseException e) {
+			Logger.error("getFormatTime"+ e);
+		}
+		return new SimpleDateFormat(toFormat).format(d);
+	}
+
+	/**
+	 * 当前月的后n月.
+	 * @param n 推后月份数
+	 * @return 月份
+	 */
+	public static String getAfterMonth(int n) {
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM");
+		Calendar calendar = Calendar.getInstance();
+		calendar.add(Calendar.MONTH, n);
+		String haha = sdf.format(calendar.getTime());
+		return haha;
+	}
+
 }

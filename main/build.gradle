@@ -32,5 +32,11 @@ dependencies {
     compile project(':xxxw')
     compile project(':xyfg')
     compile project(':ykt')
- 
+    compile project(':tsg')
+    compile project(':pjpy')
+    compile project(':ydlx')
+    compile project(':ydqj')
+    compile project(':ydyx')
+    compile project(':wspj')
+
 }
